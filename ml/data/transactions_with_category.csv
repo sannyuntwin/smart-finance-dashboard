@@ -1,0 +1,305 @@
+date,description,amount,type,category
+2024-01-01,Grab Food,15.50,expense,Food
+2024-01-02,Foodpanda,22.30,expense,Food
+2024-01-03,McDonald's,12.00,expense,Food
+2024-01-04,Starbucks,8.50,expense,Food
+2024-01-05,KFC,18.75,expense,Food
+2024-01-06,Subway,10.25,expense,Food
+2024-01-07,Pizza Hut,25.00,expense,Food
+2024-01-08,7-Eleven,5.50,expense,Food
+2024-01-09,Circle K,3.25,expense,Food
+2024-01-10,FamilyMart,7.80,expense,Food
+2024-01-11,Burger King,14.50,expense,Food
+2024-01-12,Wendy's,16.25,expense,Food
+2024-01-13,Taco Bell,13.75,expense,Food
+2024-01-14,Dominos Pizza,28.90,expense,Food
+2024-01-15,Papa John's,32.50,expense,Food
+2024-01-16,Chipotle,11.80,expense,Food
+2024-01-17,Panera Bread,15.20,expense,Food
+2024-01-18,Dunkin Donuts,6.75,expense,Food
+2024-01-19,Krispy Kreme,8.25,expense,Food
+2024-01-20,Jamba Juice,7.50,expense,Food
+2024-01-21,Smoothie King,9.25,expense,Food
+2024-01-22,Orange Julius,5.75,expense,Food
+2024-01-23,Baskin Robbins,4.50,expense,Food
+2024-01-24,Cold Stone Creamery,6.80,expense,Food
+2024-01-25,Dairy Queen,7.25,expense,Food
+2024-01-26,Sonic Drive-In,12.40,expense,Food
+2024-01-27,Jack in the Box,9.85,expense,Food
+2024-01-28,Carl's Jr,11.30,expense,Food
+2024-01-29,Hardee's,10.95,expense,Food
+2024-01-30,Whataburger,13.60,expense,Food
+2024-01-31,In-N-Out Burger,8.95,expense,Food
+2024-02-01,Culvers,14.25,expense,Food
+2024-02-02,Five Guys,18.50,expense,Food
+2024-02-03,Shake Shack,16.75,expense,Food
+2024-02-04,Checkers,8.40,expense,Food
+2024-02-05,Rally's,7.85,expense,Food
+2024-02-06,Long John Silver's,12.15,expense,Food
+2024-02-07,Captain D's,11.80,expense,Food
+2024-02-08,Bojangles,9.50,expense,Food
+2024-02-09,Zaxby's,13.25,expense,Food
+2024-02-10,Raising Cane's,10.75,expense,Food
+2024-02-11,Chick-fil-A,8.95,expense,Food
+2024-02-12,Popeyes,9.40,expense,Food
+2024-02-13,Church's Chicken,7.65,expense,Food
+2024-02-14,KFC Bucket,22.50,expense,Food
+2024-02-15,Louisiana Kitchen,15.80,expense,Food
+2024-02-16,Wingstop,18.90,expense,Food
+2024-02-17,Buffalo Wild Wings,24.75,expense,Food
+2024-02-18,Hooters,28.50,expense,Food
+2024-02-19,TGI Fridays,35.00,expense,Food
+2024-02-20,Applebee's,42.25,expense,Food
+2024-02-21,Olive Garden,48.80,expense,Food
+2024-02-22,Red Lobster,55.50,expense,Food
+2024-02-23,Outback Steakhouse,62.75,expense,Food
+2024-02-24,LongHorn Steakhouse,58.90,expense,Food
+2024-02-25,Texas Roadhouse,45.60,expense,Food
+2024-02-26,Chili's,38.40,expense,Food
+2024-02-27,Ruby Tuesday,41.25,expense,Food
+2024-02-28,Bennigan's,36.80,expense,Food
+2024-03-01,Friday's,39.95,expense,Food
+2024-03-02,Denny's,22.50,expense,Food
+2024-03-03,IHOP,24.75,expense,Food
+2024-03-04,Waffle House,18.25,expense,Food
+2024-03-05,Perkins,26.80,expense,Food
+2024-03-06,Cracker Barrel,32.40,expense,Food
+2024-03-07,Big Boy,28.90,expense,Food
+2024-03-08,Shoney's,25.60,expense,Food
+2024-03-09,Golden Corral,19.95,expense,Food
+2024-03-10,Sizzler,21.50,expense,Food
+2024-03-11,Shopee,45.99,expense,Shopping
+2024-03-12,Lazada,89.50,expense,Shopping
+2024-03-13,Tokopedia,67.25,expense,Shopping
+2024-03-14,Amazon,120.00,expense,Shopping
+2024-03-15,Uniqlo,55.75,expense,Shopping
+2024-03-16,H&M,78.30,expense,Shopping
+2024-03-17,Zara,95.50,expense,Shopping
+2024-03-18,Nike,150.00,expense,Shopping
+2024-03-19,Adidas,125.75,expense,Shopping
+2024-03-20,Guardian,23.50,expense,Shopping
+2024-03-21,Watsons,18.75,expense,Shopping
+2024-03-22,CVS Pharmacy,32.40,expense,Shopping
+2024-03-23,Walgreens,28.90,expense,Shopping
+2024-03-24,Rite Aid,24.60,expense,Shopping
+2024-03-25,Target,156.80,expense,Shopping
+2024-03-26,Walmart,234.50,expense,Shopping
+2024-03-27,Costco,287.25,expense,Shopping
+2024-03-28,Sam's Club,198.40,expense,Shopping
+2024-03-29,BJ's Wholesale,145.75,expense,Shopping
+2024-03-30,Home Depot,89.90,expense,Shopping
+2024-03-31,Lowe's,112.50,expense,Shopping
+2024-04-01,Ace Hardware,45.75,expense,Shopping
+2024-04-02,Menards,67.25,expense,Shopping
+2024-04-03,True Value,38.40,expense,Shopping
+2024-04-04,Orchard Supply,29.95,expense,Shopping
+2024-04-05,Do It Best,52.60,expense,Shopping
+2024-04-06,Best Buy,245.80,expense,Shopping
+2024-04-07,Fry's Electronics,189.50,expense,Shopping
+2024-04-08,Newegg,156.25,expense,Shopping
+2024-04-09,B&H Photo,278.90,expense,Shopping
+2024-04-10,Adorama,195.40,expense,Shopping
+2024-04-11,Ulta Beauty,45.50,expense,Shopping
+2024-04-12,Sephora,67.80,expense,Shopping
+2024-04-13,Macy's,125.60,expense,Shopping
+2024-04-14,Nordstrom,189.25,expense,Shopping
+2024-04-15,Neiman Marcus,345.75,expense,Shopping
+2024-04-16,Saks Fifth Avenue,289.90,expense,Shopping
+2024-04-17,Lord & Taylor,156.40,expense,Shopping
+2024-04-18,Barneys,412.50,expense,Shopping
+2024-04-19,Bloomingdale's,198.75,expense,Shopping
+2024-04-20,Saks Off 5th,89.60,expense,Shopping
+2024-04-21,Nordstrom Rack,67.25,expense,Shopping
+2024-04-22,Last Call,45.80,expense,Shopping
+2024-04-23,Factory Store,78.90,expense,Shopping
+2024-04-24,Outlet Mall,134.50,expense,Shopping
+2024-04-25,Premium Outlets,223.75,expense,Shopping
+2024-04-26,Tanger Outlets,156.25,expense,Shopping
+2024-04-27,Simon Mall,89.40,expense,Shopping
+2024-04-28,Westfield,145.60,expense,Shopping
+2024-04-29,Shopping Center,67.80,expense,Shopping
+2024-04-30,Retail Store,34.50,expense,Shopping
+2024-05-01,Netflix,15.99,expense,Entertainment
+2024-05-02,Disney+,12.99,expense,Entertainment
+2024-05-03,Spotify,9.99,expense,Entertainment
+2024-05-04,YouTube Premium,11.99,expense,Entertainment
+2024-05-05,Cinema Ticket,18.00,expense,Entertainment
+2024-05-06,Concert Ticket,85.00,expense,Entertainment
+2024-05-07,Steam Game,29.99,expense,Entertainment
+2024-05-08,PlayStation Store,49.99,expense,Entertainment
+2024-05-09,Bookstore,35.50,expense,Entertainment
+2024-05-10,Museum Ticket,12.00,expense,Entertainment
+2024-05-11,Hulu,14.99,expense,Entertainment
+2024-05-12,Amazon Prime Video,8.99,expense,Entertainment
+2024-05-13,Apple TV+,4.99,expense,Entertainment
+2024-05-14,Paramount+,5.99,expense,Entertainment
+2024-05-15,Peacock,4.99,expense,Entertainment
+2024-05-16,HBO Max,14.99,expense,Entertainment
+2024-05-17,Showtime,10.99,expense,Entertainment
+2024-05-18,Starz,8.99,expense,Entertainment
+2024-05-19,Cinemax,9.99,expense,Entertainment
+2024-05-20,Epix,5.99,expense,Entertainment
+2024-05-21,Audible,14.95,expense,Entertainment
+2024-05-22,Kindle Unlimited,9.99,expense,Entertainment
+2024-05-23,Scribd,11.99,expense,Entertainment
+2024-05-24,MasterClass,15.00,expense,Entertainment
+2024-05-25,Coursera,49.00,expense,Entertainment
+2024-05-26,Udemy,19.99,expense,Entertainment
+2024-05-27,Skillshare,8.99,expense,Entertainment
+2024-05-28,LinkedIn Learning,29.99,expense,Entertainment
+2024-05-29,Pluralsight,45.00,expense,Entertainment
+2024-05-30,Treehouse,25.00,expense,Entertainment
+2024-05-31,Frontend Masters,39.00,expense,Entertainment
+2024-06-01,Xbox Game Pass,9.99,expense,Entertainment
+2024-06-02,EA Play,4.99,expense,Entertainment
+2024-06-03,Ubisoft+,14.99,expense,Entertainment
+2024-06-04,Stadia Pro,9.99,expense,Entertainment
+2024-06-05,GeForce Now,4.99,expense,Entertainment
+2024-06-06,Shadow PC,11.99,expense,Entertainment
+2024-06-07,Vortex,9.99,expense,Entertainment
+2024-06-08,Parsec,4.99,expense,Entertainment
+2024-06-09,Remotr,3.99,expense,Entertainment
+2024-06-10,Rainway,4.99,expense,Entertainment
+2024-06-11,AMC Theatres,15.50,expense,Entertainment
+2024-06-12,Regal Cinemas,14.00,expense,Entertainment
+2024-06-13,Cinemark,12.50,expense,Entertainment
+2024-06-14,Marcus Theatres,11.00,expense,Entertainment
+2024-06-15,Harkins Theatres,10.50,expense,Entertainment
+2024-06-16,Alamo Drafthouse,16.00,expense,Entertainment
+2024-06-17,ArcLight Cinemas,17.50,expense,Entertainment
+2024-06-18,Landmark Theatres,13.00,expense,Entertainment
+2024-06-19,Laemmle Theatres,12.00,expense,Entertainment
+2024-06-20,Pacific Theatres,11.50,expense,Entertainment
+2024-06-21,Grab Car,25.50,expense,Transport
+2024-06-22,Gojek,18.75,expense,Transport
+2024-06-23,Taxi,35.00,expense,Transport
+2024-06-24,Bus Ticket,2.50,expense,Transport
+2024-06-25,MRT Ticket,3.00,expense,Transport
+2024-06-26,Gas Station,45.00,expense,Transport
+2024-06-27,Parking,8.00,expense,Transport
+2024-06-28,Toll,5.50,expense,Transport
+2024-06-29,Uber,22.25,expense,Transport
+2024-06-30,Train Ticket,15.75,expense,Transport
+2024-07-01,Lyft,19.50,expense,Transport
+2024-07-02,Bolt,16.80,expense,Transport
+2024-07-03,Careem,24.30,expense,Transport
+2024-07-04,Didi,21.60,expense,Transport
+2024-07-05,Ola,18.90,expense,Transport
+2024-07-06,Yandex Taxi,23.40,expense,Transport
+2024-07-07,99 Taxis,17.25,expense,Transport
+2024-07-08,Easy Taxi,14.80,expense,Transport
+2024-07-09,MyTaxi,19.95,expense,Transport
+2024-07-10,Gett,22.50,expense,Transport
+2024-07-11,Juno,20.25,expense,Transport
+2024-07-12,Via,12.75,expense,Transport
+2024-07-13,Curb,16.50,expense,Transport
+2024-07-14,Arro,14.25,expense,Transport
+2024-07-15,Wingz,28.90,expense,Transport
+2024-07-16,HopSkipDrive,35.75,expense,Transport
+2024-07-17,Kango,42.50,expense,Transport
+2024-07-18,Shuttle,18.40,expense,Transport
+2024-07-19,Airport Shuttle,25.60,expense,Transport
+2024-07-20,SuperShuttle,22.80,expense,Transport
+2024-07-21,Express Shuttle,19.90,expense,Transport
+2024-07-22,Shared Ride,15.50,expense,Transport
+2024-07-23,Private Car,45.75,expense,Transport
+2024-07-24,Limo Service,85.50,expense,Transport
+2024-07-25,Town Car,65.25,expense,Transport
+2024-07-26,Executive Car,95.80,expense,Transport
+2024-07-27,Luxury Car,125.50,expense,Transport
+2024-07-28,Premium Transport,75.60,expense,Transport
+2024-07-29,Business Transport,55.40,expense,Transport
+2024-07-30,Corporate Transport,45.25,expense,Transport
+2024-07-31,Fleet Service,35.75,expense,Transport
+2024-08-01,Shell,52.30,expense,Transport
+2024-08-02,Chevron,48.75,expense,Transport
+2024-08-03,Exxon,45.60,expense,Transport
+2024-08-04,Mobil,42.80,expense,Transport
+2024-08-05,BP,38.90,expense,Transport
+2024-08-06,Conoco,35.40,expense,Transport
+2024-08-07,Phillips 66,41.25,expense,Transport
+2024-08-08,Marathon,37.80,expense,Transport
+2024-08-09,Sunoco,44.60,expense,Transport
+2024-08-10,Valero,39.75,expense,Transport
+2024-08-11,Citgo,36.25,expense,Transport
+2024-08-12,Sinclair,33.50,expense,Transport
+2024-08-13,Kum & Go,28.90,expense,Transport
+2024-08-14,Casey's,32.40,expense,Transport
+2024-08-15,QuikTrip,46.75,expense,Transport
+2024-08-16,RaceTrac,38.25,expense,Transport
+2024-08-17,Wawa,51.80,expense,Transport
+2024-08-18,Royal Farms,29.95,expense,Transport
+2024-08-19,Sheetz,47.60,expense,Transport
+2024-08-20,Rutter's,34.80,expense,Transport
+2024-08-21,Tom Thumb,26.75,expense,Transport
+2024-08-22,Stater Bros,31.40,expense,Transport
+2024-08-23,Vons,28.95,expense,Transport
+2024-08-24,Pavilions,33.25,expense,Transport
+2024-08-25,Albertsons,36.80,expense,Transport
+2024-08-26,Safeway,39.50,expense,Transport
+2024-08-27,Carrs,42.75,expense,Transport
+2024-08-28,Andronico's,45.90,expense,Transport
+2024-08-29,Lunardi's,48.60,expense,Transport
+2024-08-30,Mollie Stone's,51.25,expense,Transport
+2024-08-31,Bel Air,54.40,expense,Transport
+2024-09-01,Salary,3500.00,income,Income
+2024-09-02,Freelance Payment,850.00,income,Income
+2024-09-03,Investment Return,225.50,income,Income
+2024-09-04,Bonus,500.00,income,Income
+2024-09-05,Dividend,125.75,income,Income
+2024-09-06,Cashback,35.50,income,Income
+2024-09-07,Interest Income,45.25,income,Income
+2024-09-08,Side Hustle,300.00,income,Income
+2024-09-09,Rental Income,1200.00,income,Income
+2024-09-10,Refund,75.00,income,Income
+2024-09-11,Gift,100.00,income,Income
+2024-09-12,Commission,425.50,income,Income
+2024-09-13,Consulting Fee,650.00,income,Income
+2024-09-14,Tutoring,180.00,income,Income
+2024-09-15,Online Course Sale,295.75,income,Income
+2024-09-16,Affiliate Marketing,145.25,income,Income
+2024-09-17,Ad Revenue,89.50,income,Income
+2024-09-18,Sponsorship,750.00,income,Income
+2024-09-19,Partnership Payment,320.00,income,Income
+2024-09-20,Royalty Payment,95.75,income,Income
+2024-09-21,Licensing Fee,180.50,income,Income
+2024-09-22,Patent Income,250.00,income,Income
+2024-09-23,Book Sales,125.25,income,Income
+2024-09-24,Music Streaming,45.80,income,Income
+2024-09-25,YouTube AdSense,78.90,income,Income
+2024-09-26,TikTok Creator Fund,35.60,income,Income
+2024-09-27,Instagram Shopping,112.75,income,Income
+2024-09-28,Facebook Marketplace,68.50,income,Income
+2024-09-29,eBay Sales,156.25,income,Income
+2024-09-30,Etsy Sales,89.40,income,Income
+2024-10-01,Stock Dividend,67.80,income,Income
+2024-10-02,Bond Interest,34.50,income,Income
+2024-10-03,Mutual Fund Distribution,125.60,income,Income
+2024-10-04,ETF Dividend,45.25,income,Income
+2024-10-05,REIT Dividend,78.90,income,Income
+2024-10-06,Capital Gains Distribution,156.75,income,Income
+2024-10-07,Qualified Dividend,89.50,income,Income
+2024-10-08,Non-Qualified Dividend,67.25,income,Income
+2024-10-09,Foreign Tax Credit,12.50,income,Income
+2024-10-10,Tax Refund,450.00,income,Income
+2024-10-11,State Tax Refund,125.75,income,Income
+2024-10-12,Federal Tax Refund,325.50,income,Income
+2024-10-13,Insurance Claim,280.00,income,Income
+2024-10-14,Medical Reimbursement,95.50,income,Income
+2024-10-15,Travel Reimbursement,145.75,income,Income
+2024-10-16,Business Expense Reimbursement,225.25,income,Income
+2024-10-17,Meal Reimbursement,35.80,income,Income
+2024-10-18,Mileage Reimbursement,67.50,income,Income
+2024-10-19,Equipment Reimbursement,125.75,income,Income
+2024-10-20,Training Reimbursement,185.25,income,Income
+2024-10-21,Conference Reimbursement,245.50,income,Income
+2024-10-22,Certification Reimbursement,95.75,income,Income
+2024-10-23,Software Reimbursement,55.25,income,Income
+2024-10-24,Hardware Reimbursement,145.50,income,Income
+2024-10-25,Office Supply Reimbursement,35.75,income,Income
+2024-10-26,Utility Reimbursement,25.50,income,Income
+2024-10-27,Internet Reimbursement,45.80,income,Income
+2024-10-28,Phone Reimbursement,35.25,income,Income
+2024-10-29,Subscription Reimbursement,15.75,income,Income
+2024-10-30,Maintenance Reimbursement,85.50,income,Income
+2024-10-31,Repair Reimbursement,125.25,income,Income
